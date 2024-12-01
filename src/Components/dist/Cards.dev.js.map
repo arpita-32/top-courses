@@ -1,0 +1,1 @@
+{"version":3,"sources":["Cards.js"],"names":["Cards","courses"],"mappings":";;AAAA;;;;AAEA,IAAMA,KAAK,GAAG,SAARA,KAAQ,OAAc;AAAA,MAAZC,OAAY,QAAZA,OAAY;AACxB;AACH,CAFD","sourcesContent":["import React from \"react\";\n\nconst Cards = ({courses}) =>{\n    return\n}"],"file":"Cards.dev.js"}
